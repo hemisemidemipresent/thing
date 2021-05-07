@@ -2,18 +2,18 @@
 module.exports = {
     title: 'My Site',
     tagline: 'Dinosaurs are cool',
-    url: 'https://your-docusaurus-test-site.com',
+    url: 'https://site.netlify.com',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'facebook', // Usually your GitHub org/user name.
+    organizationName: 'cyberquincy', // Usually your GitHub org/user name.
     projectName: 'docusaurus', // Usually your repo name.
     themeConfig: {
         navbar: {
-            title: 'My Site',
+            title: 'Cyber Quincy Documentation',
             logo: {
-                alt: 'My Site Logo',
+                alt: 'Documentation',
                 src: 'img/logo.svg',
             },
             items: [
@@ -25,7 +25,7 @@ module.exports = {
                 },
                 { to: '/blog', label: 'Blog', position: 'left' },
                 {
-                    href: 'https://github.com/facebook/docusaurus',
+                    href: 'https://github.com/hemisemidemipresent/docs.cq',
                     label: 'GitHub',
                     position: 'right',
                 },
@@ -39,7 +39,7 @@ module.exports = {
                     items: [
                         {
                             label: 'Tutorial',
-                            to: '/docs/intro',
+                            to: '/docs/Introduction',
                         },
                     ],
                 },
@@ -47,35 +47,13 @@ module.exports = {
                     title: 'Community',
                     items: [
                         {
-                            label: 'Stack Overflow',
-                            href:
-                                'https://stackoverflow.com/questions/tagged/docusaurus',
-                        },
-                        {
                             label: 'Discord',
-                            href: 'https://discordapp.com/invite/docusaurus',
-                        },
-                        {
-                            label: 'Twitter',
-                            href: 'https://twitter.com/docusaurus',
-                        },
-                    ],
-                },
-                {
-                    title: 'More',
-                    items: [
-                        {
-                            label: 'Blog',
-                            to: '/blog',
-                        },
-                        {
-                            label: 'GitHub',
-                            href: 'https://github.com/facebook/docusaurus',
+                            href: 'https://discord.gg/VMX5hZA',
                         },
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+            copyright: `Copyright © ${new Date().getFullYear()} Cyber Quincy Built with Docusaurus.`,
         },
     },
     presets: [
