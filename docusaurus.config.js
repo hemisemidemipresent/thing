@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-    title: 'My Site',
-    tagline: 'Dinosaurs are cool',
+    title: 'Cyber Quincy Documentation',
+    tagline: 'BTD6 Discord bot',
     url: 'https://site.netlify.com',
     baseUrl: '/',
     onBrokenLinks: 'throw',
