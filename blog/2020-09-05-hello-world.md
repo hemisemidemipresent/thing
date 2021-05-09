@@ -1,10 +1,10 @@
 ---
 slug: hello-world
 title: Hello
-author: Endilie Yacop Sucipto
-author_title: Maintainer of Docusaurus
-author_url: https://github.com/endiliey
-author_image_url: https://avatars1.githubusercontent.com/u/17883920?s=460&v=4
+author: Floating pyramid that makes this bot
+author_title: Developer
+author_url: https://github.com/hemisemidemipresent
+author_image_url: https://avatars.githubusercontent.com/u/57880110?v=4
 tags: [hello, docusaurus]
 ---
 

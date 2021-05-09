@@ -32,3 +32,9 @@ sidebar_position: 1
     `q!balance quincy`
 
     `q!balance sub#mid v15 v18`
+
+## q!temple
+
+**just run q!temple**, you will be prompted to input the tower type and the total cost of the tower
+
+it will then tell you the stats of the resulting temple
