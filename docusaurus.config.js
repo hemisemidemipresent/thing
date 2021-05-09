@@ -12,13 +12,18 @@ module.exports = {
     projectName: 'docusaurus', // Usually your repo name.
     themeConfig: {
         navbar: {
-            title: 'Cyber Quincy Documentation',
+            title: 'Cyber Quincy Bot',
             logo: {
                 alt: 'Documentation',
                 src:
                     'https://cdn.discordapp.com/icons/598768024761139240/c1d6f5a0857b719986ddf8d90e80c686.webp?size=256',
             },
             items: [
+                {
+                    to: 'https://cq.netlify.com/',
+                    position: 'left',
+                    label: 'Home',
+                },
                 {
                     to: 'https://tinyurl.com/cyberquincy',
                     position: 'left',
