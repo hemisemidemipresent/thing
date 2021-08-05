@@ -9,8 +9,8 @@ commands not significant enough to start a new section
 
 ## q!map
 Provides information on maps
--   **usage: `q!map <map>`**
--   **example: `q!map ouch`**
+-   **usage: `q!map <map>` or `q!map <map_difficulty>`**
+-   **example: `q!map ouch` or `q!map advanced`**
 
 ## q!info
 Provides information on the bot
