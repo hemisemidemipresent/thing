@@ -13,7 +13,7 @@ Cyber Quincy is a Discord bot for BTD6, that provides calculations and informati
 
 everything from tower information to hero levelling calculations (yes, even with energiser). Cyber Quincy also pulls information from popular BTD6 Challenges like 2 Megapops and 2 Towers CHIMPS
 
-### - Trusted and used in over 300 servers
+### - Trusted and used in over **400** servers
 
 Includes large community servers, and verified by discord.
 
